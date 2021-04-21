@@ -1,2 +1,2 @@
-# World_Weaether_Analysis
+# World_Weather_Analysis
 API's
